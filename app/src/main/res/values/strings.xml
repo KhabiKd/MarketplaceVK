@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VK Marketplace</string>
+    <string name="to_cart">В корзину</string>
+    <string name="stock">Осталось %1$s шт</string>
+</resources>
